@@ -1,0 +1,73 @@
+.start{
+    background-image: url(./RR.png);
+    background-size: cover;
+}
+.main{
+    height: 60px;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: darkslateblue ;
+}
+.img{
+    padding-top: 10px;
+}
+img{
+    filter: brightness(15%);
+    filter: drop-shadow(10px 15px 10px black);
+}
+.pic:hover{
+    border: 5px solid burlywood;
+}
+.dropdown:hover{
+    border: 5px solid burlywood;
+}
+.dropdown3:hover{
+    border: 5px solid burlywood;
+}
+.dropdown2:hover{
+    border: 5px solid burlywood;
+}
+.heading:hover{
+    border: 5px solid burlywood;
+}
+.logo:hover{
+    border: 5px solid burlywood;
+}
+img:hover{
+    border: 8px solid midnightblue;
+}
+h1{
+    text-align: center;
+    background-color: maroon;
+    color: cornsilk;
+}
+.body1{
+    height: 300px;
+    background-color: mediumaquamarine;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.body2{
+    height: 400px;
+    background-color: mediumaquamarine;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.body3{
+    height: 400px;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.foot{
+    color: burlywood;
+    background-color: cadetblue;
+}
